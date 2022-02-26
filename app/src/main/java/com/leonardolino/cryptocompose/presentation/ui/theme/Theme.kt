@@ -1,4 +1,4 @@
-package com.leonardolino.cryptocompose.ui.theme
+package com.leonardolino.cryptocompose.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

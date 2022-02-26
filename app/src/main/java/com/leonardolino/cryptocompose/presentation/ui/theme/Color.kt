@@ -1,4 +1,4 @@
-package com.leonardolino.cryptocompose.ui.theme
+package com.leonardolino.cryptocompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
